@@ -1,0 +1,28 @@
+ToolCargo Portfolio Edition - Source-Available, View-Only License
+
+Copyright (c) 2026 Eclipse Agency. All rights reserved.
+
+This repository is published so that its source code can be viewed and
+evaluated as a portfolio sample. It is NOT open source.
+
+You may:
+  - view and read the source code in this repository on GitHub; and
+  - clone it and run it locally, unmodified, solely to evaluate it.
+
+You may not, without prior written permission from the copyright holder:
+  - copy, modify, merge, publish, distribute, sublicense or sell any part of it;
+  - use it, or any derivative of it, in a product, service or other project; or
+  - use it to build or train a competing product or service.
+
+GitHub's Terms of Service allow other GitHub users to view and fork public
+repositories; that permission does not extend any of the rights withheld above.
+
+Third-party software included as dependencies is licensed under its own terms;
+see THIRD-PARTY-NOTICES.md. Nothing in this license restricts rights granted by
+those licenses.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT
+HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM, OUT OF
+OR IN CONNECTION WITH THE SOFTWARE OR ITS USE.
