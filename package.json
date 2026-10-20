@@ -26,7 +26,7 @@
   "devDependencies": {
     "@modelcontextprotocol/client": "2.0.0",
     "@types/node": "24.13.4",
-    "tsx": "4.23.13",
+    "tsx": "4.23.15",
     "typescript": "5.9.3",
     "vitest": "5.0.0"
   }
