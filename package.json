@@ -20,7 +20,7 @@
     "cheerio": "1.2.0",
     "image-size": "2.0.4",
     "robots-parser": "3.0.1",
-    "undici": "8.10.2",
+    "undici": "8.12.2",
     "zod": "4.6.2"
   },
   "devDependencies": {
