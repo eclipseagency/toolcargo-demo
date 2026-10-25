@@ -2,8 +2,8 @@
 
 The demo installs the following open-source packages from npm at install time (runtime dependencies and their transitive dependencies). They are not vendored here; each remains under its own license, available in its package and upstream repository.
 
-- @modelcontextprotocol/core@2.0.0 (MIT)
-- @modelcontextprotocol/server@2.0.0 (MIT)
+- @modelcontextprotocol/core@2.3.0 (Apache-2.0)
+- @modelcontextprotocol/server@2.3.0 (Apache-2.0)
 - boolbase@1.0.0 (ISC)
 - cheerio-select@2.1.0 (BSD-2-Clause)
 - cheerio@1.2.0 (MIT)
@@ -27,10 +27,10 @@ The demo installs the following open-source packages from npm at install time (r
 - robots-parser@3.0.1 (MIT)
 - safer-buffer@2.1.2 (MIT)
 - undici@7.30.1 (MIT)
-- undici@8.10.2 (MIT)
+- undici@8.12.2 (MIT)
 - whatwg-encoding@3.1.1 (MIT)
 - whatwg-mimetype@4.0.0 (MIT)
-- zod@4.6.2 (MIT)
+- zod@4.6.7 (MIT)
 
 Development-only tools (TypeScript, Vitest, tsx, Node type definitions) are also under their own open-source licenses.
 

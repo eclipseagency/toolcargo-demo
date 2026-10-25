@@ -57,7 +57,7 @@ watches, the catalogue website and the dozens of other connectors.
 
 ## Run it
 
-Requires Node.js 22 or newer.
+Requires Node.js 22.19.0 or newer.
 
 ```bash
 npm ci
